@@ -1,0 +1,763 @@
+{
+    "autojump_argparse": [],
+    "autojump_argparse.sorted": [
+        "autojump_argparse.sorted"
+    ],
+    "autojump_argparse._callable": [
+        "<builtin>.hasattr"
+    ],
+    "<builtin>.hasattr": [],
+    "autojump_argparse._AttributeHolder.__repr__": [
+        "<builtin>.repr",
+        "autojump_argparse._AttributeHolder._get_args",
+        "autojump_argparse._AttributeHolder._get_kwargs"
+    ],
+    "autojump_argparse._AttributeHolder._get_args": [],
+    "<builtin>.repr": [],
+    "autojump_argparse._AttributeHolder._get_kwargs": [
+        "autojump_argparse.sorted"
+    ],
+    "autojump_argparse._ensure_value": [
+        "<builtin>.getattr",
+        "<builtin>.setattr"
+    ],
+    "<builtin>.getattr": [],
+    "<builtin>.setattr": [],
+    "autojump_argparse.HelpFormatter.__init__": [
+        "<builtin>.int",
+        "autojump_argparse.HelpFormatter._Section.__init__",
+        "re.compile"
+    ],
+    "<builtin>.int": [],
+    "autojump_argparse.HelpFormatter._Section.__init__": [],
+    "re.compile": [],
+    "autojump_argparse.HelpFormatter._indent": [],
+    "autojump_argparse.HelpFormatter._dedent": [],
+    "autojump_argparse.HelpFormatter._Section.format_help": [
+        "autojump_argparse.HelpFormatter._dedent",
+        "autojump_argparse.HelpFormatter._indent",
+        "autojump_argparse.HelpFormatter._join_parts"
+    ],
+    "autojump_argparse.HelpFormatter._join_parts": [],
+    "autojump_argparse.HelpFormatter._add_item": [],
+    "autojump_argparse.HelpFormatter.start_section": [
+        "autojump_argparse.HelpFormatter._indent",
+        "autojump_argparse.HelpFormatter._Section.__init__",
+        "autojump_argparse.HelpFormatter._add_item"
+    ],
+    "autojump_argparse.HelpFormatter.end_section": [
+        "autojump_argparse.HelpFormatter._dedent"
+    ],
+    "autojump_argparse.HelpFormatter.add_text": [
+        "autojump_argparse.HelpFormatter._add_item"
+    ],
+    "autojump_argparse.HelpFormatter.add_usage": [
+        "autojump_argparse.HelpFormatter._add_item"
+    ],
+    "autojump_argparse.HelpFormatter.add_argument": [
+        "<builtin>.max",
+        "autojump_argparse.HelpFormatter._format_action_invocation",
+        "autojump_argparse.HelpFormatter._iter_indented_subactions",
+        "autojump_argparse.HelpFormatter._add_item",
+        "<builtin>.len"
+    ],
+    "autojump_argparse.HelpFormatter._format_action_invocation": [
+        "autojump_argparse.HelpFormatter._metavar_formatter.format",
+        "autojump_argparse.HelpFormatter._metavar_formatter",
+        "autojump_argparse.HelpFormatter._format_args"
+    ],
+    "autojump_argparse.HelpFormatter._iter_indented_subactions": [
+        "autojump_argparse.HelpFormatter._dedent",
+        "autojump_argparse.HelpFormatter._indent"
+    ],
+    "<builtin>.len": [],
+    "<builtin>.max": [],
+    "autojump_argparse.HelpFormatter.add_arguments": [
+        "autojump_argparse.HelpFormatter.add_argument"
+    ],
+    "autojump_argparse.HelpFormatter.format_help": [
+        "autojump_argparse.HelpFormatter._Section.format_help"
+    ],
+    "autojump_argparse.HelpFormatter._format_usage": [
+        "re.findall",
+        "gettext.gettext",
+        "<builtin>.len",
+        "autojump_argparse.HelpFormatter._format_usage.get_lines",
+        "autojump_argparse.HelpFormatter._format_actions_usage",
+        "<builtin>.dict"
+    ],
+    "gettext.gettext": [],
+    "<builtin>.dict": [],
+    "autojump_argparse.HelpFormatter._format_actions_usage": [
+        "autojump_argparse.HelpFormatter._format_args",
+        "<builtin>.len",
+        "autojump_argparse.sorted",
+        "<builtin>.range",
+        "sets.Set",
+        "re.sub",
+        "<builtin>.enumerate"
+    ],
+    "re.findall": [],
+    "autojump_argparse.HelpFormatter._format_usage.get_lines": [
+        "<builtin>.len"
+    ],
+    "sets.Set": [],
+    "<builtin>.range": [],
+    "<builtin>.enumerate": [],
+    "autojump_argparse.HelpFormatter._format_args": [
+        "autojump_argparse.HelpFormatter._metavar_formatter.format",
+        "autojump_argparse.HelpFormatter._metavar_formatter",
+        "<builtin>.range"
+    ],
+    "re.sub": [],
+    "autojump_argparse.HelpFormatter._format_text": [
+        "<builtin>.dict",
+        "autojump_argparse.HelpFormatter._fill_text"
+    ],
+    "autojump_argparse.HelpFormatter._fill_text": [
+        "textwrap.fill"
+    ],
+    "autojump_argparse.HelpFormatter._format_action": [
+        "autojump_argparse.HelpFormatter._format_action_invocation",
+        "autojump_argparse.HelpFormatter._expand_help",
+        "autojump_argparse.HelpFormatter._split_lines",
+        "autojump_argparse.HelpFormatter._iter_indented_subactions",
+        "autojump_argparse.HelpFormatter._format_action",
+        "<builtin>.len",
+        "<builtin>.min",
+        "autojump_argparse.HelpFormatter._join_parts"
+    ],
+    "<builtin>.min": [],
+    "autojump_argparse.HelpFormatter._expand_help": [
+        "<builtin>.list",
+        "<builtin>.vars",
+        "<builtin>.str",
+        "autojump_argparse.HelpFormatter._get_help_string",
+        "<builtin>.hasattr",
+        "<builtin>.dict"
+    ],
+    "autojump_argparse.HelpFormatter._split_lines": [
+        "textwrap.wrap"
+    ],
+    "autojump_argparse.HelpFormatter._metavar_formatter": [
+        "<builtin>.str"
+    ],
+    "autojump_argparse.HelpFormatter._metavar_formatter.format": [
+        "<builtin>.isinstance"
+    ],
+    "<builtin>.str": [],
+    "<builtin>.isinstance": [],
+    "<builtin>.vars": [],
+    "<builtin>.list": [],
+    "autojump_argparse.HelpFormatter._get_help_string": [],
+    "textwrap.wrap": [],
+    "textwrap.fill": [],
+    "autojump_argparse.RawDescriptionHelpFormatter._fill_text": [],
+    "autojump_argparse.RawTextHelpFormatter._split_lines": [],
+    "autojump_argparse.ArgumentDefaultsHelpFormatter._get_help_string": [],
+    "autojump_argparse._get_action_name": [],
+    "autojump_argparse.ArgumentError.__init__": [
+        "autojump_argparse._get_action_name"
+    ],
+    "autojump_argparse.ArgumentError.__str__": [
+        "<builtin>.dict"
+    ],
+    "autojump_argparse.Action.__init__": [],
+    "autojump_argparse.Action._get_kwargs": [
+        "<builtin>.getattr"
+    ],
+    "autojump_argparse.Action.__call__": [
+        "<builtin>.NotImplementedError",
+        "gettext.gettext"
+    ],
+    "<builtin>.NotImplementedError": [],
+    "autojump_argparse._StoreAction.__init__": [
+        "<builtin>.ValueError",
+        "<builtin>.super"
+    ],
+    "<builtin>.ValueError": [],
+    "<builtin>.super": [],
+    "autojump_argparse._StoreAction.__call__": [
+        "<builtin>.setattr"
+    ],
+    "autojump_argparse._StoreConstAction.__init__": [
+        "<builtin>.super"
+    ],
+    "autojump_argparse._StoreConstAction.__call__": [
+        "<builtin>.setattr"
+    ],
+    "autojump_argparse._StoreTrueAction.__init__": [
+        "<builtin>.super"
+    ],
+    "autojump_argparse._StoreFalseAction.__init__": [
+        "<builtin>.super"
+    ],
+    "autojump_argparse._AppendAction.__init__": [
+        "<builtin>.ValueError",
+        "<builtin>.super"
+    ],
+    "autojump_argparse._AppendAction.__call__": [
+        "autojump_argparse._ensure_value",
+        "copy.copy",
+        "<builtin>.setattr"
+    ],
+    "copy.copy": [],
+    "autojump_argparse._AppendConstAction.__init__": [
+        "<builtin>.super"
+    ],
+    "autojump_argparse._AppendConstAction.__call__": [
+        "autojump_argparse._ensure_value",
+        "copy.copy",
+        "<builtin>.setattr"
+    ],
+    "autojump_argparse._CountAction.__init__": [
+        "<builtin>.super"
+    ],
+    "autojump_argparse._CountAction.__call__": [
+        "autojump_argparse._ensure_value",
+        "<builtin>.setattr"
+    ],
+    "autojump_argparse._HelpAction.__init__": [
+        "<builtin>.super"
+    ],
+    "autojump_argparse._HelpAction.__call__": [],
+    "autojump_argparse._VersionAction.__init__": [
+        "<builtin>.super"
+    ],
+    "autojump_argparse._VersionAction.__call__": [],
+    "autojump_argparse._SubParsersAction._ChoicesPseudoAction.__init__": [
+        "<builtin>.super"
+    ],
+    "autojump_argparse._SubParsersAction.__init__": [
+        "<builtin>.super"
+    ],
+    "autojump_argparse._SubParsersAction.add_parser": [
+        "autojump_argparse._SubParsersAction._ChoicesPseudoAction.__init__"
+    ],
+    "autojump_argparse._SubParsersAction._get_subactions": [],
+    "autojump_argparse._SubParsersAction.__call__": [
+        "autojump_argparse.ArgumentError.__init__",
+        "gettext.gettext",
+        "<builtin>.vars",
+        "<builtin>.setattr",
+        "<builtin>.getattr"
+    ],
+    "autojump_argparse.FileType.__init__": [],
+    "autojump_argparse.FileType.__call__": [
+        "<builtin>.ValueError",
+        "gettext.gettext",
+        "<builtin>.open"
+    ],
+    "<builtin>.open": [],
+    "autojump_argparse.FileType.__repr__": [
+        "<builtin>.type",
+        "<builtin>.repr"
+    ],
+    "<builtin>.type": [],
+    "autojump_argparse.Namespace.__init__": [
+        "<builtin>.setattr"
+    ],
+    "autojump_argparse.Namespace.__eq__": [
+        "<builtin>.vars"
+    ],
+    "autojump_argparse.Namespace.__ne__": [],
+    "autojump_argparse.Namespace.__contains__": [],
+    "autojump_argparse._ActionsContainer.__init__": [
+        "autojump_argparse._ActionsContainer.register",
+        "autojump_argparse._ActionsContainer._get_handler",
+        "re.compile",
+        "<builtin>.super"
+    ],
+    "autojump_argparse._ActionsContainer.register": [],
+    "autojump_argparse._ActionsContainer._get_handler": [
+        "gettext.gettext",
+        "<builtin>.ValueError",
+        "<builtin>.getattr"
+    ],
+    "autojump_argparse._ActionsContainer._registry_get": [],
+    "autojump_argparse._ActionsContainer.set_defaults": [],
+    "autojump_argparse._ActionsContainer.get_default": [],
+    "autojump_argparse._ActionsContainer.add_argument": [
+        "autojump_argparse._ActionsContainer._get_optional_kwargs",
+        "autojump_argparse._MutuallyExclusiveGroup._add_action",
+        "autojump_argparse._ArgumentGroup._add_action",
+        "autojump_argparse._ActionsContainer._add_action",
+        "autojump_argparse._callable",
+        "<builtin>.len",
+        "autojump_argparse._ActionsContainer._get_positional_kwargs",
+        "autojump_argparse._ActionsContainer._registry_get",
+        "autojump_argparse._ActionsContainer._pop_action_class",
+        "<builtin>.ValueError"
+    ],
+    "autojump_argparse._ActionsContainer._get_positional_kwargs": [
+        "<builtin>.dict",
+        "gettext.gettext",
+        "<builtin>.TypeError"
+    ],
+    "autojump_argparse._ActionsContainer._get_optional_kwargs": [
+        "<builtin>.len",
+        "<builtin>.ValueError",
+        "gettext.gettext",
+        "<builtin>.dict"
+    ],
+    "autojump_argparse._ActionsContainer._pop_action_class": [
+        "autojump_argparse._ActionsContainer._registry_get"
+    ],
+    "autojump_argparse._ActionsContainer._add_action": [
+        "autojump_argparse._ActionsContainer._check_conflict"
+    ],
+    "autojump_argparse._MutuallyExclusiveGroup._add_action": [
+        "autojump_argparse._MutuallyExclusiveGroup._add_action",
+        "autojump_argparse._ArgumentGroup._add_action",
+        "autojump_argparse._ActionsContainer._add_action",
+        "gettext.gettext",
+        "<builtin>.ValueError"
+    ],
+    "autojump_argparse._ArgumentGroup._add_action": [
+        "<builtin>.super"
+    ],
+    "autojump_argparse._ActionsContainer.add_argument_group": [
+        "autojump_argparse._ArgumentGroup.__init__"
+    ],
+    "autojump_argparse._ArgumentGroup.__init__": [
+        "<builtin>.super"
+    ],
+    "autojump_argparse._ActionsContainer.add_mutually_exclusive_group": [
+        "autojump_argparse._MutuallyExclusiveGroup.__init__"
+    ],
+    "autojump_argparse._MutuallyExclusiveGroup.__init__": [
+        "<builtin>.super"
+    ],
+    "autojump_argparse._ActionsContainer._check_conflict": [
+        "autojump_argparse._ActionsContainer._get_handler"
+    ],
+    "autojump_argparse._ActionsContainer._remove_action": [],
+    "autojump_argparse._ActionsContainer._add_container_actions": [
+        "autojump_argparse._ActionsContainer.add_mutually_exclusive_group",
+        "<builtin>.ValueError",
+        "gettext.gettext",
+        "autojump_argparse._ActionsContainer.add_argument_group"
+    ],
+    "<builtin>.TypeError": [],
+    "autojump_argparse._ActionsContainer._handle_conflict_error": [
+        "autojump_argparse.ArgumentError.__init__",
+        "gettext.gettext"
+    ],
+    "autojump_argparse._ActionsContainer._handle_conflict_resolve": [],
+    "autojump_argparse._ArgumentGroup._remove_action": [
+        "<builtin>.super"
+    ],
+    "autojump_argparse._MutuallyExclusiveGroup._remove_action": [
+        "autojump_argparse._ArgumentGroup._remove_action",
+        "autojump_argparse._MutuallyExclusiveGroup._remove_action",
+        "autojump_argparse._ActionsContainer._remove_action"
+    ],
+    "autojump_argparse.ArgumentParser.__init__": [
+        "<builtin>.super",
+        "os.path.basename",
+        "gettext.gettext",
+        "autojump_argparse._ActionsContainer.add_argument_group",
+        "warnings.warn",
+        "autojump_argparse._ActionsContainer.add_argument",
+        "autojump_argparse._ActionsContainer._add_container_actions",
+        "autojump_argparse._ActionsContainer.register"
+    ],
+    "warnings.warn": [],
+    "os.path.basename": [],
+    "autojump_argparse.ArgumentParser.__init__.identity": [],
+    "autojump_argparse.ArgumentParser._get_kwargs": [
+        "<builtin>.getattr"
+    ],
+    "autojump_argparse.ArgumentParser.add_subparsers": [
+        "autojump_argparse._MutuallyExclusiveGroup._add_action",
+        "autojump_argparse._ArgumentGroup._add_action",
+        "autojump_argparse.ArgumentParser._get_positional_actions",
+        "gettext.gettext",
+        "autojump_argparse._ActionsContainer.add_argument_group",
+        "autojump_argparse.ArgumentParser._get_formatter",
+        "autojump_argparse.HelpFormatter.add_usage",
+        "autojump_argparse._ActionsContainer._pop_action_class",
+        "<builtin>.type",
+        "autojump_argparse.HelpFormatter.format_help",
+        "autojump_argparse.ArgumentParser.error"
+    ],
+    "autojump_argparse.ArgumentParser.error": [
+        "autojump_argparse.ArgumentParser.exit",
+        "autojump_argparse.ArgumentParser.print_usage",
+        "gettext.gettext"
+    ],
+    "autojump_argparse.ArgumentParser._get_formatter": [
+        "autojump_argparse.HelpFormatter.__init__"
+    ],
+    "autojump_argparse.ArgumentParser._get_positional_actions": [],
+    "autojump_argparse.ArgumentParser._add_action": [],
+    "autojump_argparse.ArgumentParser._get_optional_actions": [],
+    "autojump_argparse.ArgumentParser.parse_args": [
+        "autojump_argparse.ArgumentParser.parse_known_args",
+        "gettext.gettext",
+        "autojump_argparse.ArgumentParser.error"
+    ],
+    "autojump_argparse.ArgumentParser.parse_known_args": [
+        "<builtin>.delattr",
+        "autojump_argparse.Namespace.__init__",
+        "autojump_argparse.ArgumentParser._get_value",
+        "sys.exc_info",
+        "<builtin>.setattr",
+        "<builtin>.isinstance",
+        "<builtin>.str",
+        "autojump_argparse.ArgumentParser._parse_known_args",
+        "<builtin>.hasattr",
+        "<builtin>.getattr",
+        "autojump_argparse.ArgumentParser.error"
+    ],
+    "autojump_argparse.ArgumentParser._get_value": [
+        "<builtin>.repr",
+        "autojump_argparse.ArgumentError.__init__",
+        "gettext.gettext",
+        "autojump_argparse._callable",
+        "autojump_argparse._ActionsContainer._registry_get",
+        "sys.exc_info",
+        "<builtin>.str",
+        "<builtin>.getattr"
+    ],
+    "autojump_argparse.ArgumentParser._parse_known_args": [
+        "<builtin>.max",
+        "autojump_argparse.ArgumentParser._read_args_from_files",
+        "<builtin>.iter",
+        "autojump_argparse.ArgumentParser._get_positional_actions",
+        "autojump_argparse.ArgumentParser._parse_known_args.consume_optional",
+        "<builtin>.min",
+        "gettext.gettext",
+        "autojump_argparse.ArgumentParser._parse_optional",
+        "autojump_argparse.ArgumentParser._parse_known_args.consume_positionals",
+        "sets.Set",
+        "autojump_argparse._get_action_name",
+        "<builtin>.enumerate",
+        "autojump_argparse.ArgumentParser.error"
+    ],
+    "<builtin>.delattr": [],
+    "sys.exc_info": [],
+    "autojump_argparse.ArgumentParser._read_args_from_files": [
+        "autojump_argparse.ArgumentParser._read_args_from_files",
+        "sys.exc_info",
+        "<builtin>.open",
+        "autojump_argparse.ArgumentParser.convert_arg_line_to_args",
+        "<builtin>.str",
+        "autojump_argparse.ArgumentParser.error"
+    ],
+    "<builtin>.iter": [],
+    "autojump_argparse.ArgumentParser._parse_optional": [
+        "<builtin>.len",
+        "gettext.gettext",
+        "autojump_argparse.ArgumentParser.error",
+        "autojump_argparse.ArgumentParser._get_option_tuples"
+    ],
+    "autojump_argparse.ArgumentParser._parse_known_args.take_action": [
+        "autojump_argparse.ArgumentError.__init__",
+        "autojump_argparse._get_action_name",
+        "autojump_argparse.ArgumentParser._get_values",
+        "gettext.gettext"
+    ],
+    "autojump_argparse.ArgumentParser._get_values": [
+        "<builtin>.len",
+        "autojump_argparse.ArgumentParser._get_value",
+        "autojump_argparse.ArgumentParser._check_value",
+        "<builtin>.isinstance"
+    ],
+    "autojump_argparse.ArgumentParser._parse_known_args.consume_optional": [
+        "autojump_argparse.ArgumentParser._match_argument",
+        "autojump_argparse.ArgumentParser._parse_known_args.take_action",
+        "gettext.gettext",
+        "autojump_argparse.ArgumentError.__init__"
+    ],
+    "autojump_argparse.ArgumentParser._match_argument": [
+        "autojump_argparse.ArgumentError.__init__",
+        "gettext.gettext",
+        "re.match",
+        "<builtin>.len",
+        "autojump_argparse.ArgumentParser._get_nargs_pattern"
+    ],
+    "autojump_argparse.ArgumentParser._parse_known_args.consume_positionals": [
+        "autojump_argparse.ArgumentParser._match_arguments_partial",
+        "<builtin>.zip",
+        "autojump_argparse.ArgumentParser._parse_known_args.take_action",
+        "<builtin>.len"
+    ],
+    "autojump_argparse.ArgumentParser._match_arguments_partial": [
+        "<builtin>.len",
+        "<builtin>.range",
+        "autojump_argparse.ArgumentParser._get_nargs_pattern",
+        "re.match"
+    ],
+    "<builtin>.zip": [],
+    "autojump_argparse.ArgumentParser.convert_arg_line_to_args": [],
+    "autojump_argparse.ArgumentParser._get_nargs_pattern": [],
+    "re.match": [],
+    "autojump_argparse.ArgumentParser._get_option_tuples": [
+        "gettext.gettext",
+        "autojump_argparse.ArgumentParser.error"
+    ],
+    "autojump_argparse.ArgumentParser._check_value": [
+        "autojump_argparse.ArgumentError.__init__",
+        "gettext.gettext",
+        "<builtin>.map"
+    ],
+    "<builtin>.map": [],
+    "autojump_argparse.ArgumentParser.format_usage": [
+        "autojump_argparse.ArgumentParser._get_formatter",
+        "autojump_argparse.HelpFormatter.format_help",
+        "autojump_argparse.HelpFormatter.add_usage"
+    ],
+    "autojump_argparse.ArgumentParser.format_help": [
+        "autojump_argparse.HelpFormatter.start_section",
+        "autojump_argparse.ArgumentParser._get_formatter",
+        "autojump_argparse.HelpFormatter.add_arguments",
+        "autojump_argparse.HelpFormatter.add_text",
+        "autojump_argparse.HelpFormatter.add_usage",
+        "autojump_argparse.HelpFormatter.end_section",
+        "autojump_argparse.HelpFormatter.format_help"
+    ],
+    "autojump_argparse.ArgumentParser.format_version": [
+        "autojump_argparse.ArgumentParser._get_formatter",
+        "autojump_argparse.HelpFormatter.format_help",
+        "autojump_argparse.HelpFormatter.add_text",
+        "warnings.warn"
+    ],
+    "autojump_argparse.ArgumentParser.print_usage": [
+        "autojump_argparse.ArgumentParser.format_usage",
+        "autojump_argparse.ArgumentParser._print_message"
+    ],
+    "autojump_argparse.ArgumentParser._print_message": [
+        "sys.stderr.write",
+        "sys.stdout.write"
+    ],
+    "autojump_argparse.ArgumentParser.print_help": [
+        "autojump_argparse.ArgumentParser.format_help",
+        "autojump_argparse.ArgumentParser._print_message"
+    ],
+    "autojump_argparse.ArgumentParser.print_version": [
+        "autojump_argparse.ArgumentParser._print_message",
+        "autojump_argparse.ArgumentParser.format_version",
+        "warnings.warn"
+    ],
+    "sys.stderr.write": [],
+    "sys.stdout.write": [],
+    "autojump_argparse.ArgumentParser.exit": [
+        "autojump_argparse.ArgumentParser._print_message",
+        "sys.exit"
+    ],
+    "sys.exit": [],
+    "autojump_utils": [],
+    "autojump_utils.create_dir": [
+        "os.makedirs"
+    ],
+    "os.makedirs": [],
+    "autojump_utils.encode_local": [
+        "autojump_utils.is_python3",
+        "sys.getfilesystemencoding"
+    ],
+    "autojump_utils.is_python3": [],
+    "sys.getfilesystemencoding": [],
+    "autojump_utils.first": [
+        "autojump_utils.is_python3",
+        "<builtin>.iter"
+    ],
+    "autojump_utils.get_tab_entry_info": [
+        "<builtin>.int",
+        "re.search"
+    ],
+    "re.search": [],
+    "autojump_utils.get_pwd": [
+        "os.getcwdu",
+        "<builtin>.print"
+    ],
+    "os.getcwdu": [],
+    "<builtin>.print": [],
+    "autojump_utils.has_uppercase": [
+        "autojump_utils.is_python3",
+        "unicodedata.category",
+        "<builtin>.any"
+    ],
+    "<builtin>.any": [],
+    "unicodedata.category": [],
+    "autojump_utils.in_bash": [
+        "os.getenv"
+    ],
+    "os.getenv": [],
+    "autojump_utils.is_autojump_sourced": [
+        "os.getenv"
+    ],
+    "autojump_utils.is_python2": [],
+    "autojump_utils.is_linux": [
+        "platform.system"
+    ],
+    "platform.system": [],
+    "autojump_utils.is_osx": [
+        "platform.system"
+    ],
+    "autojump_utils.is_windows": [
+        "platform.system"
+    ],
+    "autojump_utils.last": [
+        "autojump_utils.is_python3",
+        "<builtin>.iter"
+    ],
+    "autojump_utils.move_file": [
+        "os.remove",
+        "shutil.move",
+        "os.path.exists",
+        "autojump_utils.is_windows"
+    ],
+    "os.path.exists": [],
+    "os.remove": [],
+    "shutil.move": [],
+    "autojump_utils.print_entry": [
+        "autojump_utils.print_local"
+    ],
+    "autojump_utils.print_local": [
+        "<builtin>.print",
+        "autojump_utils.encode_local"
+    ],
+    "autojump_utils.print_tab_menu": [
+        "autojump_utils.print_local",
+        "<builtin>.enumerate"
+    ],
+    "autojump_utils.sanitize": [
+        "itertools.imap",
+        "<builtin>.list"
+    ],
+    "autojump_utils.sanitize.<lambda1>": [
+        "autojump_utils.unico"
+    ],
+    "autojump_utils.unico": [
+        "<builtin>.isinstance",
+        "autojump_utils.is_python2"
+    ],
+    "itertools.imap": [],
+    "autojump_utils.second": [
+        "autojump_utils.is_python3",
+        "<builtin>.next",
+        "autojump_utils.is_python2",
+        "<builtin>.iter"
+    ],
+    "<builtin>.next": [],
+    "autojump_utils.surround_quotes": [
+        "autojump_utils.in_bash"
+    ],
+    "autojump_utils.take": [
+        "itertools.islice"
+    ],
+    "itertools.islice": [],
+    "autojump_data": [
+        "collections.namedtuple"
+    ],
+    "collections.namedtuple": [],
+    "autojump_data.dictify": [],
+    "autojump_data.entriefy": [
+        "autojump_utils.is_python3",
+        "<builtin>.map",
+        "itertools.imap"
+    ],
+    "autojump_data.entriefy.<lambda1>": [],
+    "autojump_data.load": [
+        "itertools.imap",
+        "autojump_data.migrate_osx_xdg_data",
+        "codecs.open",
+        "os.path.join",
+        "autojump_data.load_backup",
+        "os.path.exists",
+        "<builtin>.dict",
+        "itertools.ifilter",
+        "os.path.expanduser",
+        "autojump_utils.is_osx"
+    ],
+    "os.path.expanduser": [],
+    "os.path.join": [],
+    "autojump_data.migrate_osx_xdg_data": [
+        "autojump_utils.move_file",
+        "os.path.join",
+        "shutil.rmtree",
+        "<builtin>.len",
+        "os.path.exists",
+        "os.listdir",
+        "os.path.expanduser",
+        "autojump_utils.is_osx"
+    ],
+    "autojump_data.load.<lambda1>": [],
+    "autojump_data.load.<lambda2>": [
+        "<builtin>.len"
+    ],
+    "autojump_data.load.<lambda3>": [
+        "<builtin>.float"
+    ],
+    "<builtin>.float": [],
+    "codecs.open": [],
+    "itertools.ifilter": [],
+    "autojump_data.load_backup": [
+        "autojump_utils.move_file",
+        "os.path.exists",
+        "autojump_data.load"
+    ],
+    "shutil.rmtree": [],
+    "os.listdir": [],
+    "autojump_data.save": [
+        "autojump_utils.move_file",
+        "os.fsync",
+        "autojump_utils.create_dir",
+        "time.time",
+        "os.path.dirname",
+        "sys.exit",
+        "os.path.exists",
+        "tempfile.NamedTemporaryFile",
+        "shutil.copy",
+        "<builtin>.print",
+        "autojump_utils.unico",
+        "os.path.getmtime",
+        "codecs.open"
+    ],
+    "os.path.dirname": [],
+    "tempfile.NamedTemporaryFile": [],
+    "os.fsync": [],
+    "time.time": [],
+    "os.path.getmtime": [],
+    "shutil.copy": [],
+    "autojump_match": [
+        "autojump_utils.is_python3"
+    ],
+    "autojump_match.match_anywhere": [
+        "itertools.imap",
+        "itertools.ifilter"
+    ],
+    "autojump_match.match_anywhere.<lambda1>": [
+        "re.search"
+    ],
+    "autojump_match.match_consecutive": [
+        "itertools.imap",
+        "itertools.ifilter"
+    ],
+    "autojump_match.match_consecutive.<lambda1>": [
+        "re.search"
+    ],
+    "autojump_match.match_fuzzy": [
+        "itertools.ifilter",
+        "autojump_utils.last"
+    ],
+    "autojump_match.match_fuzzy.<lambda1>": [
+        "autojump_utils.last",
+        "os.path.split"
+    ],
+    "os.path.split": [],
+    "autojump_match.match_fuzzy.<lambda2>": [
+        "autojump_match.match_fuzzy.<lambda1>",
+        "difflib.SequenceMatcher"
+    ],
+    "difflib.SequenceMatcher": [],
+    "autojump_match.match_fuzzy.<lambda3>": [
+        "autojump_match.match_fuzzy.<lambda1>",
+        "difflib.SequenceMatcher"
+    ],
+    "autojump_match.match_fuzzy.<lambda4>": [
+        "autojump_match.match_fuzzy.<lambda2>",
+        "autojump_match.match_fuzzy.<lambda3>"
+    ]
+}

@@ -1,0 +1,80 @@
+% Define style
+\usetheme{Boadilla}
+\useoutertheme{miniframes}
+\useinnertheme{rectangles}
+
+% Define colours
+\definecolor{THblack}{HTML}{000000}
+\definecolor{THRed}{RGB}{201,12,15}
+\definecolor{THOrange}{RGB}{234,91,12}
+\definecolor{THPurple}{RGB}{184,37,133}
+\definecolor{BlueSaphirre}{HTML}{0B4F6C}
+\definecolor{DartmouthGreen}{HTML}{306B34}
+\def\cmd#1{\texttt{\color{red}\footnotesize $\backslash$#1}}
+\def\env#1{\texttt{\color{blue}\footnotesize #1}}
+\definecolor{deepblue}{rgb}{0,0,0.5}
+\definecolor{deepred}{rgb}{0.6,0,0}
+\definecolor{deepgreen}{rgb}{0,0.5,0}
+\definecolor{halfgray}{gray}{0.55}
+
+
+% define element colors
+\setbeamercolor{palette primary}{bg=THPurple,fg=white}
+\setbeamercolor{palette secondary}{bg=THRed,fg=white}
+\setbeamercolor{palette tertiary}{bg=THOrange,fg=white}
+\setbeamercolor{palette quaternary}{bg=THblack,fg=white}
+\setbeamercolor{structure}{fg=THblack}
+\setbeamercolor{title}{fg=THRed}
+\setbeamercolor{frametitle}{fg=THOrange}
+\setbeamercolor{mini frame}{fg=white, bg=THOrange}
+\setbeamercolor{section in head/foot}{fg=white, bg=THOrange}
+\setbeamercolor{structure}{fg=THblack}
+
+% define Block colors
+\setbeamercolor{block title}{bg=BlueSaphirre!50, fg=white}
+\setbeamercolor{block body}{bg=BlueSaphirre!15}
+\setbeamercolor{block title alerted}{bg=THRed!50, fg=white}
+\setbeamercolor{block body alerted}{bg=THRed!15}
+\setbeamercolor{block title example}{bg=DartmouthGreen!55, fg=white}
+\setbeamercolor{block body example}{bg=DartmouthGreen!15}
+
+% define element styles
+\setbeamertemplate{headline}{}
+\setbeamertemplate{section in toc shaded}[default][50]
+\setbeamertemplate{section in toc}[square]
+\setbeamertemplate{subsection in toc}[square]
+\setbeamertemplate{itemize items}[square]
+\setbeamertemplate{enumerate items}[square]
+\setbeamertemplate{caption}[numbered]
+\setbeamertemplate{blocks}[default]
+
+% Show numbers instead of symbols in bibliography
+\setbeamertemplate{bibliography item}{\insertbiblabel}
+\renewcommand*{\bibfont}{\small} % make font smaller
+
+%The next block of commands puts the table of contents at the 
+%beginning of each section and highlights the current section:
+\AtBeginSection[]{
+	\begin{frame}{Contents}
+		\tableofcontents[currentsection, hideallsubsections]
+	\end{frame}
+}
+
+\AtBeginSubsection[]{
+	\begin{frame}{Contents}
+		\tableofcontents[sectionstyle=show/shaded,subsectionstyle=show/shaded/hide,subsubsectionstyle=hide]
+	\end{frame}
+}
+
+\AtBeginSubsubsection[]{
+	\begin{frame}{Contents}
+		\tableofcontents[sectionstyle=show/shaded,subsectionstyle=show/shaded/hide,subsubsectionstyle=show/shaded/hide]
+	\end{frame}
+}
+
+% restyle captions
+\DeclareCaptionFont{grey}{\color{black!70}}
+\captionsetup{
+  labelfont={grey},
+  textfont={grey}
+}

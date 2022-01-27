@@ -1,0 +1,13 @@
+{
+    "crypto": [
+        "crypto.Crypto.apply",
+        "crypto.Crypto.__init__"
+    ],
+    "crypto.Crypto.__init__": [],
+    "crypto.Crypto.apply": [
+        "cryptops.encrypt",
+        "cryptops.decrypt"
+    ],
+    "cryptops.encrypt": [],
+    "cryptops.decrypt": []
+}

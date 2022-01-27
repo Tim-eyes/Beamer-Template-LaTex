@@ -1,0 +1,36 @@
+% Title page of presentation
+%
+\makeatletter
+\setbeamertemplate{title page}
+{
+	\vbox{}
+	%
+	\begin{center}
+		\begin{minipage}[c]{0.8\linewidth}
+			 
+			\inserttitlegraphic
+			    
+			\begin{beamercolorbox}[sep=8pt,center]{title}
+				\usebeamerfont{title}
+				\inserttitle%
+			\end{beamercolorbox}
+			%
+			\vspace{-2ex}\
+			\begin{beamercolorbox}[sep=8pt,center]{author}
+				\usebeamerfont{author}\small\insertauthor
+				\vspace{3ex}
+			\end{beamercolorbox}
+			%
+			\begin{minipage}[c]{.5\textwidth}
+				\insertLogos
+			\end{minipage}
+			%
+			\begin{minipage}[c]{.5\textwidth}
+				\small
+				\insertinstitute
+			\end{minipage}%
+			%
+		\end{minipage}
+	\end{center}
+}
+\makeatother
