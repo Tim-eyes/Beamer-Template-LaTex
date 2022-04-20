@@ -2,11 +2,11 @@
 ---------------------------------------------
 ## Example Slides
 
-![](./images/titlepage.png)
+![](./Images/titlepage.png)
 
-![](./images/picture2.png)
+![](./Images/picture2.png)
 
-![](./images/reference.png)
+![](./Images/reference.png)
 
 the PDF file [beamer](./beamer.pdf)
 ## Paper cite
